@@ -32,8 +32,10 @@ This project serves as a great foundation for learning network programming, conc
 ![Image](https://github.com/user-attachments/assets/4ffb79d7-fc04-411b-9c3b-dcc2c6c9cc33)
 
 *CLIENTS CONNECTION AND COMMUNICATIONS:*
+
 *CONNECTION PART:*
 ![Image](https://github.com/user-attachments/assets/1ca90f2c-fc58-42df-bd62-ddc502250c66)
+
 *COMMUNICATION PART:*
 ![Image](https://github.com/user-attachments/assets/34a2b5b9-be0e-4b8a-abfd-4c4786146ad8)
 
@@ -43,5 +45,5 @@ This project serves as a great foundation for learning network programming, conc
 
 ![Image](https://github.com/user-attachments/assets/7c457650-8bf2-41b5-bd80-0f2da3d38061)
 
-![Image](https://github.com/user-attachments/assets/e50a146e-af38-4dc2-82fe-a1d9eaf10985)
 *CLIENT DISCONNECTIONS:*
+![Image](https://github.com/user-attachments/assets/e50a146e-af38-4dc2-82fe-a1d9eaf10985)
