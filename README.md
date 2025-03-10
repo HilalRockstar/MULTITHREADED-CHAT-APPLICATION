@@ -31,6 +31,7 @@ This project serves as a great foundation for learning network programming, conc
 *SERVER CONNECTION:*
 ![Image](https://github.com/user-attachments/assets/4ffb79d7-fc04-411b-9c3b-dcc2c6c9cc33)
 
-*CLIENTS CONNECTION:*
+*CLIENTS CONNECTION AND COMMUNICATIONS:*
+![Image](https://github.com/user-attachments/assets/1ca90f2c-fc58-42df-bd62-ddc502250c66)
 
 *CLIENT DISCONNECTIONS:*
