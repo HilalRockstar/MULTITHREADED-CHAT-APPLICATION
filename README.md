@@ -29,7 +29,7 @@ This project serves as a great foundation for learning network programming, conc
 # OUTPUT
 
 *SERVER CONNECTION*
-
+![Image](https://github.com/user-attachments/assets/4ffb79d7-fc04-411b-9c3b-dcc2c6c9cc33)
 *CLIENT CONNECTION*
 
 *MULTI CLIENT CONNECTION*
