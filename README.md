@@ -47,3 +47,4 @@ This project serves as a great foundation for learning network programming, conc
 
 *CLIENT DISCONNECTIONS:*
 ![Image](https://github.com/user-attachments/assets/e50a146e-af38-4dc2-82fe-a1d9eaf10985)
+![Image](https://github.com/user-attachments/assets/0868c454-bcd2-4ab8-9994-76be746585f0)
